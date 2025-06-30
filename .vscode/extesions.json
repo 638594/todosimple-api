@@ -1,0 +1,9 @@
+{
+    "recomendations":[
+        "vscjava.vscode-java-pack",
+        "pivotal.vscode-boot-dev-pack",
+        "sohibe.java-generatie-setters-getters",
+        "ritwickdey.liveserver",
+        "jaland.java-generate-setters-getters-update-equals"
+    ]
+}
