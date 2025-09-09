@@ -28,10 +28,6 @@ import com.luizroberto.todosimple.services.Exceptions.AuthorizationException;
 import com.luizroberto.todosimple.services.Exceptions.DataBindingViolationException;
 import com.luizroberto.todosimple.services.Exceptions.ObjectNotFoundException;
 
-// import com.luizroberto.todosimple.services.exceptions.AuthorizationException;
-// import com.luizroberto.todosimple.services.exceptions.DataBindingViolationException;
-// import com.luizroberto.todosimple.services.exceptions.ObjectNotFoundException;
-
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j(topic = "GLOBAL_EXCEPTION_HANDLER")

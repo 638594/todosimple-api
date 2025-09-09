@@ -5,7 +5,7 @@ import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.luizroberto.todosimple.models.User;
-import java.util.List;
+
 
 
 
